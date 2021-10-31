@@ -2,19 +2,23 @@ body{
     background-color: #EEEEEE;
 }
 .fa{
-    color: blue;
+    color: #4183D7;
 }
 .box-part{
     background-color: white;
-    padding: 30px 10px;
+    padding: 60px 10px 40px 10px;
     margin: 30px 0px;
 }
 a{
-    border-bottom: 1px solid blue;
+    color: #0062cc;
+    border-bottom: 2px solid #0062cc;
+    font-size: 16px;
 }
 .box{
     padding: 60px 0px;
 }
 p{
     margin: 20px 0px;
+    font-size: 15px;
+    line-height: 1.6em;
 }
